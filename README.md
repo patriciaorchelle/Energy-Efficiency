@@ -127,9 +127,10 @@ Cibles à prédire :
 
 
 
-## **7. Prochaines pistes**
+## **7. Étudier l’importance des variables (**feature importance / SHAP**)**
+
+## **8. Prochaines pistes**
 
 * Ajouter des modèles **plus avancés** (LightGBM, CatBoost, NN).
-* Étudier l’importance des variables (**feature importance / SHAP**).
 * Déployer une **API Flask/FastAPI** pour prédictions en temps réel.
 * Créer une **interface web (Streamlit/Shiny)** pour utilisateurs non techniques.
